@@ -26,7 +26,7 @@
 export function Games() {
   return (
     <div>
-      <div className="mt-32 max-w-7xl mx-auto px-6 md:px-12 xl:px-6 text-center">
+      {/* <div className="mt-32 max-w-7xl mx-auto px-6 md:px-12 xl:px-6 text-center">
         <h1 className="text-2xl text-center font-bold text-zinc-900 dark:text-white md:text-3xl lg:text-4xl">
           Featured projects built on Gamba
         </h1>
@@ -49,7 +49,7 @@ export function Games() {
             <span>Build your own →</span>
           </Link>
         </div>
-      </div>
+      </div> */}
     </div>
   )
 }
